@@ -27,10 +27,10 @@ categories:
 
 {{< mybrline1 color="blue" >}}
 
-{{< mydiv4o link="https://hk2006.chinadsf.org/"   text="hk2006   2020年6月的新聞 " >}}
-{{< mydiv4o link="https://hk2006a.chinadsf.org/"  text="hk2006a  2020年6月的新聞a" >}}
-{{< mydiv4o link="https://hk2006b.chinadsf.org/"  text="hk2006b  2020年6月的新聞b" bg="lightcoral" >}}
-{{< mydiv4o link="https://hk2006c.chinadsf.org/"  text="hk2006c  2020年6月的新聞c" >}}
+{{< mydiv4o link="https://hk2006.chinadsf.org/"   text="hk2006   2020年6月的新聞 " bg="lightsteelblue" >}}
+{{< mydiv4o link="https://hk2006a.chinadsf.org/"  text="hk2006a  2020年6月的新聞a" bg="lightsteelblue" >}}
+{{< mydiv4o link="https://hk2006b.chinadsf.org/"  text="hk2006b  2020年6月的新聞b" bg="plum" >}}
+{{< mydiv4o link="https://hk2006c.chinadsf.org/"  text="hk2006c  2020年6月的新聞c" bg="lightsteelblue" >}}
 
 {{< mybrline1 color="blue" >}}
 
