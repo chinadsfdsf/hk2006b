@@ -1,10 +1,10 @@
 ---
 weight:      11
-title:       " 香港、大陸、武汉肺炎最新动态 "
+title:       " 月份导航 "
 date:        2020-05-13T13:55:07-07:00
 XXresImgTeaser: teaserpics/pixabay.com/monitor-1307227_640.jpg
 description: >
-    香港、大陸、武汉肺炎最新动态
+    月份导航
 tags:
   - front
 categories:
