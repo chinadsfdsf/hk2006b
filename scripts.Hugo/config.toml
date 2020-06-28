@@ -127,7 +127,7 @@ anchor = "smart"
   weight = 1
   name   = "主页"
   url    = "/index.html"
-  pre    = "fas fa-home"
+#  pre    = "fas fa-home"
 
 #[[menu.main]]
 #  weight = 2
@@ -172,13 +172,13 @@ anchor = "smart"
 # 
 # # end submenu
 
-[[menu.main]]
-  weight = 5
-  #name   = "所有文章"
-  name   = "所有"
-  #url    = "/blog"
-  url    = "/tags/"
-  pre    = "fas fa-rss"
+# [[menu.main]]
+#   weight = 5
+#   #name   = "所有文章"
+#   name   = "所有"
+#   #url    = "/blog"
+#   url    = "/tags/"
+#   pre    = "fas fa-rss"
 
 # [[menu.main]]
 #   weight = 6
@@ -199,14 +199,14 @@ anchor = "smart"
   name   = "索引"
   #url    = "/tags/"
   url    = "/hot/alltags/"
-  pre    = "fas fa-info-circle"
+#  pre    = "fas fa-info-circle"
 
 [[menu.main]]
   weight = 81
   #name   = "作者列表"
   name   = "作者"
   url    = "/hot/byauthor"
-  pre    = "fas fa-info-circle"
+#  pre    = "fas fa-info-circle"
 
 
 #[[menu.main]]
@@ -220,30 +220,30 @@ anchor = "smart"
   #name   = "其他月份"
   name   = "月份"
   url    = "/hot/endothers/"
-  pre    = "Hot"
+#  pre    = "Hot"
 [[menu.main]]
   weight = 86
   #name   = "热点新闻"
-  name   = "热点"
+  name   = "热"
   url    = "/hot/hotnews/"
-  pre    = "Hot"
+#  pre    = "Hot"
 [[menu.main]]
   weight = 87
   #name   = "每日疫情"
-  name   = "疫情"
+  name   = "疫"
   url    = "/hot/fuckccp/"
-  pre    = "Hot"
+#  pre    = "Hot"
 [[menu.main]]
   weight = 88
-  name   = "蕭若元"
+  name   = "蕭"
   url    = "/hot/memehongkong/"
-  pre    = "Hot"
+#  pre    = "Hot"
 
 [[menu.main]]
   weight = 89
-  name   = "唐柏桥"
+  name   = "唐"
   url    = "/hot/tangbaiqiao/"
-  pre    = "Hot"
+#  pre    = "Hot"
 
 
 # right aligned
